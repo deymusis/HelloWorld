@@ -1,0 +1,6 @@
+D:\Projects\C#\HellishWorld\HellishWorld\bin\Debug\HellishWorld.exe.config
+D:\Projects\C#\HellishWorld\HellishWorld\bin\Debug\HellishWorld.exe
+D:\Projects\C#\HellishWorld\HellishWorld\bin\Debug\HellishWorld.pdb
+D:\Projects\C#\HellishWorld\HellishWorld\obj\Debug\HellishWorld.csprojResolveAssemblyReference.cache
+D:\Projects\C#\HellishWorld\HellishWorld\obj\Debug\HellishWorld.exe
+D:\Projects\C#\HellishWorld\HellishWorld\obj\Debug\HellishWorld.pdb
